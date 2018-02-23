@@ -1,0 +1,7 @@
+C:\Users\Chuan\Project\CA_13_RomanToInt\CA_13_RomanToInt\bin\Debug\CA_13_RomanToInt.exe.config
+C:\Users\Chuan\Project\CA_13_RomanToInt\CA_13_RomanToInt\bin\Debug\CA_13_RomanToInt.exe
+C:\Users\Chuan\Project\CA_13_RomanToInt\CA_13_RomanToInt\bin\Debug\CA_13_RomanToInt.pdb
+C:\Users\Chuan\Project\CA_13_RomanToInt\CA_13_RomanToInt\obj\Debug\CA_13_RomanToInt.csprojResolveAssemblyReference.cache
+C:\Users\Chuan\Project\CA_13_RomanToInt\CA_13_RomanToInt\obj\Debug\CA_13_RomanToInt.csproj.CoreCompileInputs.cache
+C:\Users\Chuan\Project\CA_13_RomanToInt\CA_13_RomanToInt\obj\Debug\CA_13_RomanToInt.exe
+C:\Users\Chuan\Project\CA_13_RomanToInt\CA_13_RomanToInt\obj\Debug\CA_13_RomanToInt.pdb
